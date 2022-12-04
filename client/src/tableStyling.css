@@ -1,0 +1,27 @@
+table {
+  /* border-collapse: collapse; */
+  width: 600px;
+  margin-right: 10%;
+  /* margin-top: 20; */
+}
+/* th,
+td {
+  text-align: left;
+  padding: 8px;
+  :nth-child(even)
+} */
+tbody {
+  background-color: white;
+}
+
+thead {
+  background-color: #2ca089;
+  color: white;
+}
+nav {
+  background: linear-gradient(
+    89.7deg,
+    rgb(5, 19, 49) 2.8%,
+    rgb(132, 53, 142) 97.8%
+  );
+}
